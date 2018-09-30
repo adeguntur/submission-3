@@ -1,23 +1,17 @@
 <resources>
-    <string name="app_name">FootBall-Club-API</string>
-    <string name="league_id">4332</string>
-    <string name="past_match">Past Match</string>
-    <string name="favorite_match">Favorite Match</string>
-    <string name="no_data">Data tidak ditemukan</string>
+    <string name="app_name">Submissions3</string>
+
     <string name="vs">VS</string>
-    <string name="goals">Goals</string>
     <string name="shots">Shots</string>
-    <string name="lineup">Lineups</string>
-    <string name="goalkeeper">Goal Keeper</string>
+    <string name="goal">Goal</string>
+    <string name="lineups">Lineups</string>
+    <string name="goal_keeper">Goal Keeper</string>
     <string name="defense">Defense</string>
     <string name="midfield">Midfield</string>
     <string name="forward">Forward</string>
-    <string name="subtitute">Substitutes</string>
+    <string name="substitutes">Substitutes</string>
 
-    <string-array name="main">
-        <item>@string/past_match</item>
-        <item>Next Match</item>
-        <item>@string/favorite_match</item>
-    </string-array>
-
+    <string name="prev_match">Prev Match</string>
+    <string name="next_match">Next Match</string>
+    <string name="favorite">Favorite</string>
 </resources>
